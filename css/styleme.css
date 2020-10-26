@@ -1,0 +1,16 @@
+body {
+  padding: 50;
+}
+
+h4 {
+  color: blueviolet;
+}
+
+ul li {
+  font-size: 18px;
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+}
