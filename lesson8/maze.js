@@ -1,9 +1,9 @@
 $(document).ready(function () {
-  $(".boundary").mouseenter(function () {
+  $(".boundary").mouseover(function () {
     $(".boundary").addClass("youlose");
     setTimeout(function () {
       alert("You lose!");
-    }, 2000);
+    }, 1000);
   });
 
   $("#start").click(function () {
