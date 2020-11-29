@@ -3,7 +3,7 @@ div.rcircle {
   width: 50px;
   border-radius: 50px;
   background-color: blueviolet;
-  display: block;
+  display: inline-table;
   position: relative;
   margin: 10px;
 }
