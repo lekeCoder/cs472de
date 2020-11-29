@@ -1,0 +1,17 @@
+div.rcircle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: blueviolet;
+  display: block;
+  position: relative;
+  margin: 10px;
+}
+
+#drawarea {
+  margin: 2em auto;
+  clear: both;
+  background-color: aquamarine;
+  text-align: center;
+  padding: 1em;
+}
