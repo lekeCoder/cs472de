@@ -1,0 +1,29 @@
+body {
+    background: #eeeeee;
+}
+#content {
+    margin: 0 auto;
+}
+
+.post {
+    margin: 0 auto;
+    clear: both;
+}
+
+.post > p h3 {
+    text-align: justify;
+    display: block;
+    clear: none;
+}
+
+.post > button {
+    text-align: right;
+}
+
+.comments {
+    margin: 0 15px;
+}
+
+#header > h2 {
+    text-align: center;
+}
